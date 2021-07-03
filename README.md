@@ -1,0 +1,2 @@
+# Twitter-sentiment-analysis
+This project addresses the problem of sentiment analysis in Twitter; that is classifying tweets according to the sentiment expressed in them: positive, negative, or neutral. ● Collected tweets from the Twitter API and analyzed them and removed all the unnecessary information using data preprocessing Used machine learning algorithms such as Naive Bayes to predict the outcome. .
